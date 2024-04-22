@@ -1,0 +1,74 @@
+.biggerfont{
+    font-size: 27px;
+}
+
+
+.white{
+    color: whitesmoke;
+}
+
+
+.resume{
+    color: rgb(9, 9, 44);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.topbar{
+    padding: 20px;
+    word-spacing: 20px;
+    font-size: 20px;
+    color: darkblue;
+}
+
+
+body{
+    background-color: rgb(245, 242, 242);
+    border: 5px solid black;
+    margin: 20px;
+   
+}
+
+
+nav{
+    background-color: rgb(129, 125, 125);
+    padding: 10px;
+    overflow: hidden;
+}
+
+
+nav a{
+    float:left;
+    padding:10px 13px;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+nav a:hover{
+    background-color: #bdc2c7;
+}
+
+
+.largefont{
+    font-size: 45px;
+}
+
+
+.center{
+    text-align: center;
+}
+
+
+.fontfam{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.jaycee{
+    color: navy;
+    font-size: 24px;
+}
+
